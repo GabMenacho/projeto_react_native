@@ -86,6 +86,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         backgroundColor: "#fff",
         marginBottom: 150,
+        borderRadius: 20,
     },
 
     text: {
@@ -95,7 +96,8 @@ const styles = StyleSheet.create({
         marginBottom: 150,
         backgroundColor: "#fff",
         paddingLeft: 10,
-        alignContent: "center"
+        alignContent: "center",
+        borderRadius: 10,
         
 
     },

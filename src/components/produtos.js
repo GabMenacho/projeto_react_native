@@ -23,7 +23,6 @@ const styles = StyleSheet.create({
     produto: {
         flex:.7,
         justifyContent: 'center',
-        
         backgroundColor: "#2378",
         alignContent: "center",
         
