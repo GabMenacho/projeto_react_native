@@ -78,7 +78,6 @@ const styles = StyleSheet.create({
         fontSize: 16,
         color: "#fff",
         borderColor: "#fff",
-        placeholderTextColor: "#fff",
       },
     
 });
